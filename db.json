@@ -1,0 +1,128 @@
+{
+    "boxContent": [
+        {
+            "boxTitle": "Marketing Analysis",
+            "boxMain": "Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor",
+            "boxNumber": 1
+        },
+        {
+            "boxTitle": "Website Optimization",
+            "boxMain": "Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor",
+            "boxNumber": 2
+        },
+        {
+            "boxTitle": "Email Marketing",
+            "boxMain": "Lorem ipsum dolor sit amet，consectetur adipiscing elit，sed do eiusmod tempor",
+            "boxNumber": 3
+        },
+        {
+            "boxTitle": "Social Media Marketing",
+            "boxMain": "Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor",
+            "boxNumber": 4
+        }
+    ],
+    "singleServers": [
+        {
+            "serverImg": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/services/services-1.png",
+            "serverTitle": "Website Development",
+            "serverContent": "Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor incutu labore et dolore magna aliqua."
+        },
+        {
+            "serverImg": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/services/services-2.png",
+            "serverTitle": "Digital Media & PPC",
+            "serverContent": "Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor incutu labore et dolore magna aliqua."
+        },
+        {
+            "serverImg": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/services/services-3.png",
+            "serverTitle": "Social Media Marketing",
+            "serverContent": "Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor incutu labore et dolore magna aliqua."
+        },
+        {
+            "serverImg": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/services/services-4.png",
+            "serverTitle": "Content Marketing Services",
+            "serverContent": "Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor incutu labore et dolore magna aliqua."
+        },
+        {
+            "serverImg": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/services/services-5.png",
+            "serverTitle": "Competitor Research",
+            "serverContent": "Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor incutu labore et dolore magna aliqua."
+        },
+        {
+            "serverImg": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/services/services-6.png",
+            "serverTitle": "Software Development",
+            "serverContent": "Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor incutu labore et dolore magna aliqua."
+        }
+    ],
+    "tabCurrent": [
+        {
+            "svgClass": "bi bi-command",
+            "path": "",
+            "spanContent": "Real-Time Analytics"
+        },
+        {
+            "svgClass": "bi bi-command",
+            "path": "",
+            "spanContent": "Pay-Per-Click"
+        },
+        {
+            "svgClass": "bi bi-command",
+            "path": "",
+            "spanContent": "Online Marketing"
+        },
+        {
+            "svgClass": "bi bi-command",
+            "path": "",
+            "spanContent": "Email Marketing"
+        },
+        {
+            "svgClass": "bi bi-command",
+            "path": "",
+            "spanContent": "Social Marketing"
+        },
+        {
+            "svgClass": "bi bi-command",
+            "path": "",
+            "spanContent": "Digital Marketing"
+        }
+    ],
+    "areaTabContent": [
+        {
+            "tabContentTitle": "Super Responsive"
+        },
+        {
+            "tabContentTitle": "High Security"
+        },
+        {
+            "tabContentTitle": "Optimal Choice"
+        }
+    ],
+    "area6Img": [
+        {
+            "imgScr": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/portfolio/portfolio-1.jpg"
+        },
+        {
+            "imgScr": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/portfolio/portfolio-2.jpg"
+        },
+        {
+            "imgScr": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/portfolio/portfolio-3.jpg"
+        },
+        {
+            "imgScr": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/portfolio/portfolio-4.jpg"
+        },
+        {
+            "imgScr": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/portfolio/portfolio-5.jpg"
+        },
+        {
+            "imgScr": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/portfolio/portfolio-6.jpg"
+        },
+        {
+            "imgScr": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/portfolio/portfolio-7.jpg"
+        },
+        {
+            "imgScr": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/portfolio/portfolio-8.jpg"
+        },
+        {
+            "imgScr": "http://v.bootstrapmb.com/2020/9/6m44f8895/assets/img/portfolio/portfolio-9.jpg"
+        }
+    ]
+}
